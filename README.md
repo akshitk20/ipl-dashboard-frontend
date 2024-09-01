@@ -4,9 +4,13 @@ IPL dashboard that helps you browse your favourite IPL team and their match deta
 
 You can also see the list of matches between 2008-2024(latest data) for all the teams.
 
+To see the rough design follow this link :- https://1drv.ms/u/s!AgUsyuu9lvAydIW410GJzVR0-7Q
 
 ## Screenshots
 
+Home Page
+
+![alt text](<Screenshot 2024-09-01 at 5.22.29 PM.png>)
 
 
 ### `npm start`
